@@ -9,9 +9,8 @@ This cheatsheet is intended for:
 
 ---
 
-🔹 Git Configuration
 
-```bash
+🔹 Git configuration
 git --version
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
