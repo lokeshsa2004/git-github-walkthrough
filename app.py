@@ -7,4 +7,4 @@ def log(msg):
     print(f"[LOG]: {msg}")
 
 log("App started")
-Hotfix on main
+
