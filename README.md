@@ -9,7 +9,7 @@ This cheatsheet is intended for:
 
 ---
 
-## 🔹 Git Configuration
+🔹 Git Configuration
 
 ```bash
 git --version
