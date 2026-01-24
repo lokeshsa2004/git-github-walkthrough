@@ -10,9 +10,10 @@ This cheatsheet is intended for:
 ---
 
 
-🔹 Git configuration
+
 
 ```bash
+🔹 Git configuration
 git --version
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
@@ -125,7 +126,10 @@ git branch -d feature-x
 git tag v1.0.0
 git push origin v1.0.0
 
+```
+
 Golden Rules
+```
 Rebase only local/feature branches
 Never force-push to shared branches
 Revert in production, reset locally
