@@ -2,15 +2,15 @@
 ---
 
 ```md
-#  Git & GitHub – Learning Progress & Technical Report
+Git & GitHub – Learning Progress & Technical Report
 
-##  Objective
+Objective
 
 To gain **practical, production-grade understanding of Git and GitHub**, beyond basic commands, including conflict handling, history rewriting, debugging, and safe collaboration.
 
 ---
 
-##  Learning Approach
+Learning Approach
 
 - Hands-on execution (not theory-only)
 - Intentional creation of mistakes
@@ -20,29 +20,29 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-##  Topics Covered
+Topics Covered
 
-### 1. Git Fundamentals
+1. Git Fundamentals
 - Repository initialization
 - Working tree vs staging vs commits
 - Commit creation and inspection
 - File tracking and ignoring
 
-### 2. Configuration & Identity
+2. Configuration & Identity
 - Global vs repo-level config
 - Author correction using `commit --amend`
 - Default branch configuration
 
 ---
 
-### 3. Branching Strategy
+3. Branching Strategy
 - Feature branching
 - Safe deletion of merged branches
 - Branch isolation for experimentation
 
 ---
 
-### 4. Merging & Conflict Resolution
+4. Merging & Conflict Resolution
 - Fast-forward merges
 - Manual merge conflict resolution
 - Conflict markers and resolution flow
@@ -50,7 +50,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-### 5. Undo & History Management
+5. Undo & History Management
 - Soft vs hard resets
 - Undoing commits safely
 - Reverting commits in shared history
@@ -58,7 +58,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-### 6. Remote Repositories & GitHub
+6. Remote Repositories & GitHub
 - HTTPS vs SSH authentication
 - SSH key generation and setup
 - Remote URL management
@@ -67,7 +67,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-### 7. Pull Request Workflow
+7. Pull Request Workflow
 - Feature branch PRs
 - Review and merge strategies
 - Branch cleanup
@@ -75,7 +75,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-### 8. Rebase (Advanced Topic)
+8. Rebase (Advanced Topic)
 - Rebase vs merge conceptual differences
 - Rebase on feature branches
 - Rebase with conflicts
@@ -85,21 +85,21 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-### 9. Debugging with Git
+9. Debugging with Git
 - `git bisect` for regression identification
 - Good/bad commit marking
 - Automated bisect concepts
 
 ---
 
-### 10. Inspection & Accountability
+10. Inspection & Accountability
 - `git blame` for line-level ownership
 - `git show` for commit-level diffs
 - Understanding merge commits deeply
 
 ---
 
-##  Key Challenges Faced
+Key Challenges Faced
 
 - Rebase conflicts occurring multiple times
 - Authentication failures with HTTPS
@@ -109,7 +109,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-##  Key Learnings
+Key Learnings
 
 - Git is about **state transitions**, not commands
 - History rewriting must be treated with care
@@ -119,7 +119,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-##  Production-Safe Practices Adopted
+Production-Safe Practices Adopted
 
 - No force push on shared branches
 - PR-based development
@@ -129,7 +129,7 @@ To gain **practical, production-grade understanding of Git and GitHub**, beyond 
 
 ---
 
-##  Outcome
+Outcome
 
 By the end of this exercise:
 - All core and advanced Git commands were executed
@@ -141,8 +141,7 @@ By the end of this exercise:
 
 
 ---
-
-## ✅ Conclusion
+Conclusion
 
 This repository represents a **complete Git learning lifecycle**, emphasizing correctness, safety, and real-world applicability rather than memorization.
 
