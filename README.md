@@ -136,6 +136,5 @@ Revert in production, reset locally
 Always inspect with git diff
 Use PRs for collaboration
 
-![WhatsApp Image 2026-01-28 at 9 22 44 AM (1)](https://github.com/user-attachments/assets/96deee17-21a8-478b-bc20-7509de7d13f2)
 
 
